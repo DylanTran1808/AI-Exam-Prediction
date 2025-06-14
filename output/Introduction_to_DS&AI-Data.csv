@@ -1,0 +1,123 @@
+ExamID,QuestionID,Year,Topic,Difficulty,AnswerType
+NG,E_NG_Q1a,NG,DIKW Model,Hard,Written
+NG,E_NG_Q1b,NG,DIKW Model,Hard,Written
+NG,E_NG_Q2a,NG,Complex Numbers,Hard,Written
+NG,E_NG_Q2b,NG,Complex Numbers,Hard,Written
+NG,E_NG_Q2c,NG,Complex Numbers,Hard,Written
+NG,E_NG_Q2d,NG,Complex Numbers,Hard,Written
+NG,E_NG_Q2e,NG,Complex Numbers,Hard,Written
+NG,E_NG_Q3a,NG,Time Series Metrics,Hard,Written
+NG,E_NG_Q3b,NG,Time Series Metrics,Hard,Written
+NG,E_NG_Q3c,NG,Time Series Metrics,Hard,Written
+NG,E_NG_Q4,NG,Linear Regression,Medium,Written
+NG,E_NG_Q5a,NG,Probability and Sampling,Hard,Written
+NG,E_NG_Q5b,NG,Probability and Sampling,Hard,Written
+NG,E_NG_Q5c,NG,Probability and Sampling,Hard,Written
+NG,E_NG_Q6a,NG,Game Theory,Hard,Written
+NG,E_NG_Q6b,NG,Game Theory,Hard,Written
+NG,E_NG_Q6c,NG,Game Theory,Hard,Written
+Exam_2019,E_19_Q1b,2019,Agents,Medium,Written
+Exam_2019,E_19_Q1c,2019,Agents,Medium,Written
+Exam_2019,E_19_Q2a,2019,Search,Hard,Written
+Exam_2019,E_19_Q2b,2019,Search,Medium,Written
+Exam_2019,E_19_Q2c,2019,Search,Medium,Written
+Exam_2019,E_19_Q3a,2019,Logic,Medium,Written
+Exam_2019,E_19_Q3b,2019,Logic,Medium,Written
+Exam_2019,E_19_Q4a,2019,Decision Trees,Medium,Written
+Exam_2019,E_19_Q4b,2019,Decision Trees,Hard,Written
+Exam_2019,E_19_Q4c,2019,Decision Trees,Hard,Written
+Exam_2019,E_19_Q5a,2019,PageRank,Medium,Written
+Exam_2019,E_19_Q5b,2019,PageRank,Medium,Written
+Exam_2019,E_19_Q6a,2019,Data Representations,Medium,Written
+Exam_2019,E_19_Q6b,2019,Data Representations,Easy,Written
+Exam_2019,E_19_Q7a,2019,Complex Numbers,Easy,Written
+Exam_2019,E_19_Q7b,2019,Complex Numbers,Easy,Written
+Exam_2019,E_19_Q7c,2019,Complex Numbers,Medium,Written
+Exam_2019,E_19_Q7d,2019,Complex Numbers,Easy,Written
+Exam_2019,E_19_Q7e,2019,Complex Numbers,Medium,Written
+Exam_2019,E_19_Q8a,2019,Distance Metrics,Medium,Written
+Exam_2019,E_19_Q8b,2019,Distance Metrics,Medium,Written
+Exam_2019,E_19_Q9,2019,Linear Regression,Medium,Written
+Exam_2019,E_19_Q10a,2019,Bootstrap Simulation,Easy,Written
+Exam_2019,E_19_Q10b,2019,Bootstrap Simulation,Easy,Written
+Exam_2019,E_19_Q11a,2019,Game Theory,Medium,Written
+Exam_2019,E_19_Q11b,2019,Game Theory,Medium,Written
+Resit_2021,R_21_Q1a,2021,Agent Environments,Hard,Written
+Resit_2021,R_21_Q1b,2021,Simple Reflex Agents,Hard,Written
+Resit_2021,R_21_Q1c,2021,Agent Limitations,Hard,Written
+Resit_2021,R_21_Q1d,2021,PEAS Framework,Hard,Written
+Resit_2021,R_21_Q2a,2021,Breadth-First Search,Medium,Written
+Resit_2021,R_21_Q2b,2021,Path Finding,Medium,Written
+Resit_2021,R_21_Q2c,2021,Search Techniques,Medium,Written
+Resit_2021,R_21_Q3a,2021,Logical Equivalence,Medium,Written
+Resit_2021,R_21_Q3b,2021,Statement Completion,Medium,Written
+Resit_2021,R_21_Q3c,2021,Validity and Satisfiability,Medium,Written
+Resit_2021,R_21_Q4a,2021,Entropy Calculation,Hard,Written
+Resit_2021,R_21_Q4b,2021,Information Gain,Hard,Written
+Resit_2021,R_21_Q4c,2021,Decision Trees,Hard,Written
+Resit_2021,R_21_Q5a,2021,Search Engine Indexing,Easy,Written
+Resit_2021,R_21_Q5b,2021,PageRank Algorithm,Medium,Written
+Resit_2021,R_21_Q6a,2021,Data-Information-Knowledge,Medium,Written
+Resit_2021,R_21_Q6b,2021,Rule Implementation,Medium,Written
+Resit_2021,R_21_Q7a,2021,Complex Numbers,Medium,Written
+Resit_2021,R_21_Q7b,2021,Complex Division,Medium,Written
+Resit_2021,R_21_Q7c,2021,Complex Equations,Medium,Written
+Resit_2021,R_21_Q8a,2021,Euclidean Distance,Easy,Written
+Resit_2021,R_21_Q8b,2021,Distance Properties,Hard,Written
+Resit_2021,R_21_Q9,2021,Linear Regression,Medium,Written
+Resit_2021,R_21_Q10a,2021,Probability Distribution,Easy,Written
+Resit_2021,R_21_Q10b,2021,Simulation Rules,Medium,Written
+Resit_2021,R_21_Q11a,2021,Nash Equilibrium,Medium,Written
+Resit_2021,R_21_Q11b,2021,Zero-Sum Games,Medium,Written
+NG,NG_Q1a,NG,Data Concepts,Hard,Written
+NG,NG_Q1b,NG,Data Concepts,Hard,Written
+NG,NG_Q1c,NG,Data Concepts,Hard,Written
+NG,NG_Q2a,NG,Complex Numbers,Hard,Written
+NG,NG_Q2b,NG,Complex Numbers,Hard,Written
+NG,NG_Q2c,NG,Complex Numbers,Hard,Written
+NG,NG_Q2d,NG,Complex Numbers,Hard,Written
+NG,NG_Q2e,NG,Complex Numbers,Hard,Written
+NG,NG_Q3a,NG,Time Series Analysis,Hard,Written
+NG,NG_Q3b,NG,Time Series Analysis,Hard,Written
+NG,NG_Q3c,NG,Time Series Analysis,Hard,Written
+NG,NG_Q4,NG,Linear Regression,Medium,Written
+NG,NG_Q5a,NG,Probability,Hard,Written
+NG,NG_Q5b,NG,Probability,Hard,Written
+NG,NG_Q6,NG,Game Theory,Hard,Written
+Exam_2023,E_23_Q1a,2023,AI Agents,Medium,Written
+Exam_2023,E_23_Q1b,2023,AI Agents,Medium,Written
+Exam_2023,E_23_Q1c,2023,Turing Test,Medium,Written
+Exam_2023,E_23_Q2a,2023,Search Algorithms,Easy,Multiple Choice
+Exam_2023,E_23_Q2b,2023,Search Algorithms,Medium,Written
+Exam_2023,E_23_Q2c,2023,Search Algorithms,Medium,Written
+Exam_2023,E_23_Q2d,2023,Game Trees,Hard,Written
+Exam_2023,E_23_Q3a,2023,Propositional Logic,Medium,Written
+Exam_2023,E_23_Q3b,2023,Propositional Logic,Medium,Multiple Choice
+Exam_2023,E_23_Q4a,2023,Decision Trees,Medium,Written
+Exam_2023,E_23_Q4b,2023,Decision Trees,Hard,Written
+Exam_2023,E_23_Q4c,2023,Decision Trees,Hard,Written
+Exam_2023,E_23_Q4d,2023,Decision Trees,Medium,Written
+Exam_2023,E_23_Q4e,2023,Decision Trees,Medium,Written
+Exam_2023,E_23_Q5a,2023,Information Retrieval,Easy,Multiple Choice
+Exam_2023,E_23_Q5b,2023,Information Retrieval,Easy,Multiple Choice
+Exam_2023,E_23_Q5c,2023,Information Retrieval,Easy,Multiple Choice
+Exam_2023,E_23_Q5d,2023,Information Retrieval,Medium,Written
+Exam_2023,E_23_Q5e,2023,PageRank,Medium,Written
+Exam_2023,E_23_Q6a,2023,Data Concepts,Easy,Multiple Choice
+Exam_2023,E_23_Q6b,2023,Knowledge Representation,Easy,Multiple Choice
+Exam_2023,E_23_Q6c,2023,Knowledge Concepts,Easy,Multiple Choice
+Exam_2023,E_23_Q7a,2023,Complex Numbers,Medium,Written
+Exam_2023,E_23_Q7b,2023,Complex Numbers,Medium,Written
+Exam_2023,E_23_Q7c,2023,Complex Numbers,Medium,Written
+Exam_2023,E_23_Q8a,2023,Data Mining,Easy,Multiple Choice
+Exam_2023,E_23_Q8b,2023,Data Mining,Medium,Written
+Exam_2023,E_23_Q8c,2023,Distance Metrics,Medium,Written
+Exam_2023,E_23_Q8d,2023,Distance Metrics,Medium,Written
+Exam_2023,E_23_Q9a,2023,Linear Regression,Medium,Written
+Exam_2023,E_23_Q9b,2023,Linear Regression,Hard,Written
+Exam_2023,E_23_Q10a,2023,Probability Distributions,Medium,Multiple Choice
+Exam_2023,E_23_Q10b,2023,Bootstrapping,Easy,Multiple Choice
+Exam_2023,E_23_Q10c,2023,Bootstrapping,Easy,Multiple Choice
+Exam_2023,E_23_Q10d,2023,Bootstrapping,Easy,Multiple Choice
+Exam_2023,E_23_Q11a,2023,Game Theory,Medium,Written
+Exam_2023,E_23_Q11b,2023,Game Theory,Medium,Written

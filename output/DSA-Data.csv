@@ -1,0 +1,82 @@
+ExamID,QuestionID,Year,Topic,Difficulty,AnswerType
+Exam_2018,E_18_Q1a,2018,AVL Tree,Medium,Written
+Exam_2018,E_18_Q1b,2018,Hash Table,Medium,Written
+Exam_2018,E_18_Q1c,2018,Trie,Hard,Written
+Exam_2018,E_18_Q1d,2018,Trie Applications,Hard,Written
+Exam_2018,E_18_Q2a,2018,Graph Algorithms,Medium,Written
+Exam_2018,E_18_Q2b,2018,Graph Algorithms,Medium,Written
+Exam_2018,E_18_Q2c,2018,Tree Traversals,Medium,Written
+Exam_2018,E_18_Q2d,2018,Hash Functions,Medium,Written
+Exam_2018,E_18_Q2e,2018,AVL Trees,Medium,Written
+Exam_2018,E_18_Q2f,2018,Binary Search Trees,Hard,Written
+Exam_2018,E_18_Q3a,2018,Quicksort,Easy,Written
+Exam_2018,E_18_Q3b,2018,Quicksort,Medium,Written
+Exam_2018,E_18_Q3c,2018,Binary Trees,Medium,Written
+Exam_2018,E_18_Q3d,2018,Sorting Algorithms,Medium,Written
+Exam_2018,E_18_Q3e,2018,Minimum Spanning Trees,Medium,Written
+Exam_2018,E_18_Q3f,2018,Asymptotic Analysis,Medium,Written
+Exam_2018,E_18_Q3g,2018,Heaps,Hard,Written
+Exam_2018,E_18_Q1e,2018,Big-O Notation,Medium,Written
+Exam_2018,E_18_Q1f,2018,Big-O Notation,Medium,Written
+Exam_2018,E_18_Q1g,2018,Graph Representation,Medium,Written
+Exam_2018,E_18_Q1h,2018,Binary Search Trees,Hard,Written
+Exam_2018,E_18_Q4,2018,Set Operations,Hard,Written
+Exam_2018,E_18_Q5,2018,Selection,Hard,Written
+Exam_2018,E_18_Q6,2018,Tree Algorithms,Hard,Written
+Exam_2022,E_22_Q1b,2022,Time Complexity,Medium,Written
+Exam_2022,E_22_Q1c,2022,Graph Traversal,Easy,Written
+Exam_2022,E_22_Q1d,2022,Graph Traversal,Easy,Written
+Exam_2022,E_22_Q1e,2022,Trie Data Structure,Medium,Written
+Exam_2022,E_22_Q1f,2022,Trie Data Structure,Easy,Written
+Exam_2022,E_22_Q2a,2022,Time Complexity,Medium,Written
+Exam_2022,E_22_Q2b,2022,Time Complexity,Medium,Written
+Exam_2022,E_22_Q2c,2022,Time Complexity,Medium,Written
+Exam_2022,E_22_Q2d,2022,Time Complexity,Medium,Written
+Exam_2022,E_22_Q2e,2022,Sorting Algorithms,Medium,Multiple Choice
+Exam_2022,E_22_Q2f,2022,Sorting Algorithms,Medium,Written
+Exam_2022,E_22_Q2g,2022,Trees,Easy,Written
+Exam_2022,E_22_Q2h,2022,Trees,Easy,Written
+Exam_2022,E_22_Q3a,2022,Time Complexity of Operations,Easy,Written
+Exam_2022,E_22_Q3b,2022,Time Complexity of Operations,Medium,Written
+Exam_2022,E_22_Q3c,2022,Time Complexity of Operations,Medium,Written
+Exam_2022,E_22_Q3d,2022,Time Complexity of Operations,Medium,Written
+Exam_2022,E_22_Q3e,2022,Hash Tables,Medium,Written
+Exam_2022,E_22_Q3f,2022,Heaps,Hard,Written
+Exam_2022,E_22_Q3g,2022,Heaps,Medium,Written
+Exam_2022,E_22_Q4,2022,Binary Search Tree Validation,Hard,Written
+Exam_2022,E_22_Q5,2022,Cycle Detection in Graphs,Hard,Written
+NG,NG_Q1,NG,Hash Table,Medium,Written
+NG,NG_Q2,NG,Binary Trees,Medium,Written
+Resit_2021,R_21_Q1a,2021,Graph Representation,Easy,Written
+Resit_2021,R_21_Q1b,2021,Graph Representation,Easy,Written
+Resit_2021,R_21_Q1c,2021,Graph Representation,Easy,Written
+Resit_2021,R_21_Q1d,2021,Graph Representation,Easy,Written
+Resit_2021,R_21_Q1e,2021,Graph Representation,Easy,Written
+Resit_2021,R_21_Q1f,2021,Graph Representation,Easy,Written
+Resit_2021,R_21_Q1g,2021,Graph Representation,Easy,Written
+Resit_2021,R_21_Q2a,2021,Sorting Algorithms,Medium,Written
+Resit_2021,R_21_Q2b,2021,Sorting Algorithms,Medium,Written
+Resit_2021,R_21_Q3,2021,Trie,Medium,Written
+Resit_2021,R_21_Q4a,2021,Data Structure Operations,Easy,Written
+Resit_2021,R_21_Q4b,2021,Data Structure Operations,Easy,Written
+Resit_2021,R_21_Q4c,2021,Data Structure Operations,Easy,Written
+Resit_2021,R_21_Q4d,2021,Data Structure Operations,Medium,Written
+Resit_2021,R_21_Q4e,2021,Data Structure Operations,Easy,Written
+Resit_2021,R_21_Q4f,2021,Data Structure Operations,Medium,Written
+Resit_2021,R_21_Q5,2021,Sorting Implementation,Medium,Written
+Resit_2021,R_21_Q6a,2021,Binary Search Trees,Medium,Written
+Resit_2021,R_21_Q6b,2021,Binary Search Trees,Easy,Written
+Resit_2021,R_21_Q6c,2021,Binary Search Trees,Easy,Written
+Resit_2021,R_21_Q6d,2021,Binary Search Trees,Medium,Written
+Resit_2021,R_21_Q7a,2021,Runtime Analysis,Medium,Written
+Resit_2021,R_21_Q7b,2021,Runtime Analysis,Medium,Written
+Resit_2021,R_21_Q7c,2021,Runtime Analysis,Medium,Written
+Resit_2021,R_21_Q7d,2021,Runtime Analysis,Hard,Written
+Resit_2021,R_21_Q8,2021,Heap Operations,Medium,Written
+Resit_2021,R_21_Q9a,2021,Graph Traversals,Medium,Written
+Resit_2021,R_21_Q9b,2021,Graph Traversals,Medium,Written
+Resit_2021,R_21_Q9c,2021,Graph Traversals,Medium,Written
+Resit_2021,R_21_Q10a,2021,Trie Application,Hard,Written
+Resit_2021,R_21_Q10b,2021,Trie Application,Medium,Written
+Resit_2021,R_21_Q11a,2021,Stack Operations,Hard,Written
+Resit_2021,R_21_Q11b,2021,Stack Operations,Medium,Written

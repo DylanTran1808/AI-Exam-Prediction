@@ -1,0 +1,111 @@
+ExamID,QuestionID,Year,Topic,Difficulty,AnswerType
+Resit_2022,R_22_Q1,2022,Propositional Logic,Easy,Written
+Resit_2022,R_22_Q2,2022,Mathematical Induction,Hard,Written
+Resit_2022,R_22_Q3a,2022,Set Theory,Medium,Written
+Resit_2022,R_22_Q3b,2022,Set Theory,Medium,Written
+Resit_2022,R_22_Q4,2022,Relation Properties,Medium,Written
+Resit_2022,R_22_Q5a,2022,Combinatorics,Medium,Written
+Resit_2022,R_22_Q5b,2022,Combinatorics,Medium,Written
+Resit_2022,R_22_Q5c,2022,Combinatorics,Medium,Written
+Resit_2022,R_22_Q6a,2022,Quantifiers,Medium,Written
+Resit_2022,R_22_Q6b,2022,Quantifiers,Medium,Written
+Resit_2022,R_22_Q6c,2022,Quantifiers,Hard,Written
+Resit_2022,R_22_Q7a,2022,Function Bijection,Hard,Written
+Resit_2022,R_22_Q7b,2022,Function Composition,Hard,Written
+Resit_2022,R_22_Q8a,2022,Set Partitions,Easy,Written
+Resit_2022,R_22_Q8b,2022,Set Operations,Easy,Written
+Exam_2021,E_21_Q1,2021,Propositional Logic,Easy,Written
+Exam_2021,E_21_Q2,2021,Induction,Medium,Written
+Exam_2021,E_21_Q3a,2021,Set Theory,Medium,Written
+Exam_2021,E_21_Q3b,2021,Set Theory,Medium,Written
+Exam_2021,E_21_Q4a,2021,Relations,Medium,Written
+Exam_2021,E_21_Q4b,2021,Equivalence Classes,Medium,Written
+Exam_2021,E_21_Q5a,2021,Counting Functions,Medium,Written
+Exam_2021,E_21_Q5b,2021,Bijections,Medium,Written
+Exam_2021,E_21_Q5c,2021,Combinatorial Distribution,Medium,Written
+Exam_2021,E_21_Q6a,2021,Quantifiers,Medium,Written
+Exam_2021,E_21_Q6b,2021,Quantifiers,Medium,Written
+Exam_2021,E_21_Q7a,2021,Bijections,Medium,Written
+Exam_2021,E_21_Q7b,2021,Function Composition,Medium,Written
+Exam_2021,E_21_Q8a,2021,Set Operations,Easy,Written
+Exam_2021,E_21_Q8b,2021,Power Set,Easy,Written
+Resit_2024,R_24_Q1a,2024,Propositional Logic,Easy,Multiple Choice
+Resit_2024,R_24_Q1b,2024,Propositional Logic,Easy,Multiple Choice
+Resit_2024,R_24_Q1c,2024,Propositional Logic,Easy,Multiple Choice
+Resit_2024,R_24_Q1d,2024,Propositional Logic,Easy,Multiple Choice
+Resit_2024,R_24_Q2a,2024,Mathematical Induction,Hard,Written
+Resit_2024,R_24_Q2b,2024,Mathematical Induction,Hard,Written
+Resit_2024,R_24_Q3a,2024,Set Theory,Hard,Written
+Resit_2024,R_24_Q3b,2024,Set Theory,Hard,Written
+Resit_2024,R_24_Q4a,2024,Relation Properties,Medium,Written
+Resit_2024,R_24_Q4b,2024,Equivalence Classes,Easy,Multiple Choice
+Resit_2024,R_24_Q5a,2024,Combinatorics,Medium,Written
+Resit_2024,R_24_Q5b,2024,Combinatorics,Medium,Written
+Resit_2024,R_24_Q5c,2024,Set Subsets,Medium,Written
+Resit_2024,R_24_Q6a,2024,Predicate Logic,Hard,Written
+Resit_2024,R_24_Q6b,2024,Logic and Sets,Medium,Written
+Resit_2024,R_24_Q6c,2024,Contrapositive,Easy,Multiple Choice
+Resit_2024,R_24_Q7,2024,Function Properties,Hard,Written
+Resit_2024,R_24_Q8a,2024,Set Operations,Easy,Multiple Choice
+Resit_2024,R_24_Q8b,2024,Set Operations,Easy,Multiple Choice
+Exam_2022,E_22_Q1b,2022,Propositional Logic,Easy,Multiple Choice
+Exam_2022,E_22_Q1c,2022,Propositional Logic,Easy,Multiple Choice
+Exam_2022,E_22_Q1d,2022,Propositional Logic,Easy,Multiple Choice
+Exam_2022,E_22_Q1e,2022,Propositional Logic,Easy,Multiple Choice
+Exam_2022,E_22_Q1f,2022,Propositional Logic,Easy,Multiple Choice
+Exam_2022,E_22_Q1g,2022,Propositional Logic,Easy,Multiple Choice
+Exam_2022,E_22_Q1h,2022,Propositional Logic,Easy,Multiple Choice
+Exam_2022,E_22_Q2a,2022,Induction,Hard,Written
+Exam_2022,E_22_Q2b,2022,Induction,Medium,Written
+Exam_2022,E_22_Q3a,2022,Set Theory,Hard,Written
+Exam_2022,E_22_Q3b,2022,Set Theory,Medium,Multiple Choice
+Exam_2022,E_22_Q3c,2022,Set Theory,Medium,Multiple Choice
+Exam_2022,E_22_Q3d,2022,Set Theory,Medium,Multiple Choice
+Exam_2022,E_22_Q3e,2022,Set Theory,Medium,Multiple Choice
+Exam_2022,E_22_Q3f,2022,Set Theory,Medium,Multiple Choice
+Exam_2022,E_22_Q3g,2022,Set Theory,Medium,Multiple Choice
+Exam_2022,E_22_Q3h,2022,Set Theory,Medium,Multiple Choice
+Exam_2022,E_22_Q4a,2022,Relations,Medium,Written
+Exam_2022,E_22_Q4b,2022,Relations,Medium,Written
+Exam_2022,E_22_Q5a,2022,Combinatorics,Medium,Written
+Exam_2022,E_22_Q5b,2022,Combinatorics,Medium,Written
+Exam_2022,E_22_Q5c,2022,Combinatorics,Medium,Written
+Exam_2022,E_22_Q6a,2022,Number Theory,Hard,Written
+Exam_2022,E_22_Q6b,2022,Number Theory,Hard,Written
+Exam_2022,E_22_Q7a,2022,Functions,Hard,Written
+Exam_2022,E_22_Q7b,2022,Functions,Hard,Written
+Exam_2022,E_22_Q7c,2022,Functions,Hard,Written
+Exam_2022,E_22_Q7d,2022,Functions,Hard,Written
+Exam_2022,E_22_Q8a,2022,Set Theory,Easy,Multiple Choice
+Exam_2022,E_22_Q8b,2022,Set Theory,Easy,Multiple Choice
+Exam_2022,E_22_Q8c,2022,Set Theory,Easy,Multiple Choice
+Exam_2022,E_22_Q8d,2022,Set Theory,Easy,Multiple Choice
+Exam_2022,E_22_Q8e,2022,Set Theory,Easy,Multiple Choice
+Exam_2022,E_22_Q8f,2022,Set Theory,Easy,Multiple Choice
+Resit_2023,R_23_Q1a,2023,Propositional Logic,Easy,Multiple Choice
+Resit_2023,R_23_Q1b,2023,Propositional Logic,Easy,Multiple Choice
+Resit_2023,R_23_Q1c,2023,Propositional Logic,Easy,Multiple Choice
+Resit_2023,R_23_Q1d,2023,Propositional Logic,Easy,Multiple Choice
+Resit_2023,R_23_Q1e,2023,Propositional Logic,Easy,Multiple Choice
+Resit_2023,R_23_Q1f,2023,Propositional Logic,Easy,Multiple Choice
+Resit_2023,R_23_Q1g,2023,Propositional Logic,Easy,Multiple Choice
+Resit_2023,R_23_Q1h,2023,Propositional Logic,Easy,Multiple Choice
+Resit_2023,R_23_Q2a,2023,Discrete Mathematics,Medium,Multiple Choice
+Resit_2023,R_23_Q2b,2023,Discrete Mathematics,Medium,Multiple Choice
+Resit_2023,R_23_Q3a,2023,Set Theory,Hard,Multiple Choice
+Resit_2023,R_23_Q3b,2023,Set Theory,Hard,Written
+Resit_2023,R_23_Q3c,2023,Set Theory,Hard,Written
+Resit_2023,R_23_Q4a,2023,Relations,Easy,Multiple Choice
+Resit_2023,R_23_Q4b,2023,Relations,Hard,Written
+Resit_2023,R_23_Q5a,2023,Combinatorics,Medium,Multiple Choice
+Resit_2023,R_23_Q5b,2023,Combinatorics,Medium,Multiple Choice
+Resit_2023,R_23_Q5c,2023,Combinatorics,Medium,Multiple Choice
+Resit_2023,R_23_Q6a,2023,Mathematical Logic,Easy,Multiple Choice
+Resit_2023,R_23_Q6b,2023,Mathematical Logic,Hard,Written
+Resit_2023,R_23_Q6c,2023,Mathematical Logic,Hard,Written
+Resit_2023,R_23_Q7a,2023,Functions,Hard,Written
+Resit_2023,R_23_Q7b,2023,Functions,Hard,Written
+Resit_2023,R_23_Q7c,2023,Functions,Hard,Written
+Resit_2023,R_23_Q8a,2023,Basic Set Theory,Easy,Multiple Choice
+Resit_2023,R_23_Q8b,2023,Basic Set Theory,Easy,Multiple Choice
+Resit_2023,R_23_Q8c,2023,Basic Set Theory,Easy,Multiple Choice

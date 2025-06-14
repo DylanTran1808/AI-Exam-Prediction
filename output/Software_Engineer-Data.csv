@@ -1,0 +1,94 @@
+ExamID,QuestionID,Year,Topic,Difficulty,AnswerType
+Resit_2021,R_21_Q1a,2021,Testing,Medium,Written
+Resit_2021,R_21_Q1b,2021,Testing,Hard,Written
+Resit_2021,R_21_Q1c,2021,Testing,Medium,Written
+Resit_2021,R_21_Q2a,2021,Version Control,Medium,Written
+Resit_2021,R_21_Q2b,2021,Version Control,Hard,Written
+Resit_2021,R_21_Q3a,2021,Abstraction Functions and Representation Invariants,Easy,Written
+Resit_2021,R_21_Q3b,2021,Abstraction Functions and Representation Invariants,Easy,Written
+Resit_2021,R_21_Q3c,2021,Abstraction Functions and Representation Invariants,Easy,Written
+Resit_2021,R_21_Q3d,2021,Abstraction Functions and Representation Invariants,Medium,Written
+Resit_2021,R_21_Q4,2021,Software Management,Easy,Written
+Resit_2021,R_21_Q5a,2021,Software Architecture,Easy,Written
+Resit_2021,R_21_Q5b,2021,Software Architecture,Medium,Written
+Resit_2021,R_21_Q5c,2021,Software Architecture,Medium,Written
+Resit_2021,R_21_Q5d,2021,Software Architecture,Hard,Written
+Resit_2021,R_21_Q6a,2021,UML,Hard,Written
+Resit_2021,R_21_Q6b,2021,UML,Hard,Written
+Resit_2023,R_23_Q1,2023,Software Process Models,Hard,Written
+Resit_2023,R_23_Q2,2023,Test Case Analysis,Medium,Multiple Choice
+Resit_2023,R_23_Q3a,2023,Binary Search Specification,Medium,Written
+Resit_2023,R_23_Q3b,2023,Binary Search Specification,Medium,Written
+Resit_2023,R_23_Q4a,2023,Git Repository Management,Medium,Written
+Resit_2023,R_23_Q4b,2023,Git Repository Management,Medium,Written
+Resit_2023,R_23_Q4c,2023,Git Repository Management,Medium,Written
+Resit_2023,R_23_Q5,2023,Code Smells,Medium,Written
+Resit_2023,R_23_Q6,2023,SOLID Principles,Medium,Multiple Choice
+Resit_2023,R_23_Q7,2023,Debugging Process,Medium,Written
+Resit_2023,R_23_Q8,2023,Coupling and Cohesion,Medium,Multiple Choice
+Resit_2023,R_23_Q9,2023,Single Responsibility Principle,Easy,Written
+Resit_2023,R_23_Q10,2023,Design Patterns,Medium,Written
+Resit_2023,R_23_Q11,2023,Design Patterns,Medium,Multiple Choice
+Resit_2023,R_23_Q12,2023,Design Patterns,Medium,Multiple Choice
+Resit_2023,R_23_Q13,2023,Error Types,Easy,Multiple Choice
+Resit_2023,R_23_Q14,2023,Error Types,Easy,Multiple Choice
+Resit_2023,R_23_Q15,2023,Error Types,Easy,Multiple Choice
+Resit_2023,R_23_Q16,2023,Error Types,Easy,Multiple Choice
+Resit_2023,R_23_Q17,2023,Snapshot Diagram,Medium,Multiple Choice
+Resit_2023,R_23_Q18,2023,Snapshot Diagram,Medium,Multiple Choice
+Exam_2023,E_23_Q2,2023,Refactoring,Hard,Written
+Exam_2023,E_23_Q3,2023,Software Architecture,Medium,Multiple Choice
+Exam_2023,E_23_Q4,2023,Design Patterns,Easy,Written
+Exam_2023,E_23_Q5,2023,Design Patterns,Medium,Multiple Choice
+Exam_2023,E_23_Q6,2023,Design Patterns,Medium,Multiple Choice
+Exam_2023,E_23_Q7,2023,SOLID Principles,Medium,Multiple Choice
+Exam_2023,E_23_Q8,2023,SOLID Principles,Medium,Written
+Exam_2023,E_23_Q9,2023,Programming Errors,Easy,Multiple Choice
+Exam_2023,E_23_Q10,2023,Programming Errors,Easy,Multiple Choice
+Exam_2023,E_23_Q11,2023,Programming Errors,Easy,Multiple Choice
+Exam_2023,E_23_Q12,2023,Programming Errors,Easy,Multiple Choice
+Exam_2023,E_23_Q13,2023,Git,Medium,Multiple Choice
+Exam_2023,E_23_Q14,2023,Java Syntax,Easy,Multiple Choice
+Exam_2023,E_23_Q15,2023,Software Design Principles,Medium,Multiple Choice
+Exam_2023,E_23_Q16,2023,Formal Specifications,Hard,Multiple Choice
+Exam_2023,E_23_Q17,2023,Testing Principles,Easy,Multiple Choice
+Exam_2023,E_23_Q18,2023,Testing,Medium,Multiple Choice
+Exam_2025,E_25_Q1,2025,Microservices Architecture,Hard,Written
+Exam_2025,E_25_Q2,2025,Testing Fundamentals,Easy,Written
+Exam_2025,E_25_Q3,2025,Code Checking,Easy,Written
+Exam_2025,E_25_Q4,2025,Debugging,Easy,Written
+Exam_2025,E_25_Q5,2025,UML Diagrams,Easy,Written
+Exam_2025,E_25_Q6,2025,Architecture Styles,Easy,Written
+Exam_2025,E_25_Q7,2025,Git Commands,Easy,Written
+Exam_2025,E_25_Q8,2025,OOP Concepts,Easy,Written
+Exam_2025,E_25_Q9,2025,Clean Code,Easy,Multiple Choice
+Exam_2025,E_25_Q10,2025,Test-Driven Development,Medium,Multiple Choice
+Exam_2025,E_25_Q11,2025,Agile Methodology,Hard,Written
+Exam_2025,E_25_Q12,2025,Coupling,Hard,Written
+Exam_2025,E_25_Q13,2025,Design Patterns,Medium,Written
+Exam_2025,E_25_Q14,2025,Design Patterns,Medium,Multiple Choice
+Exam_2025,E_25_Q15,2025,SOLID Principles,Hard,Written
+Exam_2025,E_25_Q16,2025,Specifications,Easy,Multiple Choice
+Exam_2025,E_25_Q17,2025,RESTful API,Medium,Multiple Choice
+Exam_2025,E_25_Q18,2025,Refactoring,Easy,Multiple Choice
+Exam_2025,E_25_Q19,2025,SOLID Principles,Easy,Multiple Choice
+Exam_2025,E_25_Q20,2025,Debugging,Easy,Multiple Choice
+Exam_2021,E_21_Q1b,2021,Testing,Medium,Written
+Exam_2021,E_21_Q2a,2021,Version Control,Medium,Multiple Choice
+Exam_2021,E_21_Q2b,2021,Version Control,Medium,Multiple Choice
+Exam_2021,E_21_Q2c,2021,Version Control,Medium,Multiple Choice
+Exam_2021,E_21_Q2d,2021,Version Control,Medium,Multiple Choice
+Exam_2021,E_21_Q3a,2021,Specifications,Medium,Multiple Choice
+Exam_2021,E_21_Q3b,2021,Specifications,Medium,Multiple Choice
+Exam_2021,E_21_Q3c,2021,Specifications,Medium,Multiple Choice
+Exam_2021,E_21_Q3d,2021,Specifications,Medium,Written
+Exam_2021,E_21_Q4a,2021,Software Management,Medium,Multiple Choice
+Exam_2021,E_21_Q4b,2021,Software Management,Medium,Multiple Choice
+Exam_2021,E_21_Q4c,2021,Software Management,Medium,Multiple Choice
+Exam_2021,E_21_Q4d,2021,Software Management,Medium,Multiple Choice
+Exam_2021,E_21_Q5a,2021,Software Architecture,Hard,Written
+Exam_2021,E_21_Q5b,2021,Software Architecture,Medium,Multiple Choice
+Exam_2021,E_21_Q5c,2021,Software Architecture,Hard,Written
+Exam_2021,E_21_Q5d,2021,Software Architecture,Medium,Multiple Choice
+Exam_2021,E_21_Q5e,2021,Software Architecture,Hard,Written
+Exam_2021,E_21_Q6,2021,UML,Hard,Written

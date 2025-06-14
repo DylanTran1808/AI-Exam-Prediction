@@ -1,0 +1,58 @@
+ExamID,QuestionID,Year,Topic,Difficulty,AnswerType
+Exam_2022,E_22_Q1,2022,Variables,Easy,Multiple Choice
+Exam_2022,E_22_Q2a,2022,Exceptions,Hard,Written
+Exam_2022,E_22_Q2b,2022,Exceptions,Hard,Written
+Exam_2022,E_22_Q3,2022,Compilation Errors,Medium,Written
+Exam_2022,E_22_Q4,2022,Loops and Conditionals,Medium,Written
+Exam_2022,E_22_Q5,2022,Code Analysis,Easy,Multiple Choice
+Exam_2022,E_22_Q6,2022,Arrays,Medium,Written
+Exam_2022,E_22_Q7,2022,Recursion,Medium,Written
+Exam_2022,E_22_Q8,2022,Array Manipulation,Hard,Written
+Exam_2022,E_22_Q9,2022,Algorithm Design,Hard,Written
+Exam_2022,E_22_Q10,2022,2D Arrays,Hard,Written
+Exam_2020,E_20_Q1a,2020,Java Fundamentals,Medium,Multiple Choice
+Exam_2020,E_20_Q1b,2020,Java Compilation,Medium,Multiple Choice
+Exam_2020,E_20_Q1c,2020,Memory Management,Medium,Multiple Choice
+Exam_2020,E_20_Q1d,2020,Loops and Variables,Medium,Multiple Choice
+Exam_2020,E_20_Q1e,2020,Arrays and Loops,Hard,Multiple Choice
+Exam_2020,E_20_Q2,2020,Java Compilation,Easy,Written
+Exam_2020,E_20_Q3,2020,Java Methods & Arrays,Medium,Written
+Exam_2020,E_20_Q4,2020,Recursion,Hard,Written
+Exam_2020,E_20_Q5,2020,Conditional Logic,Medium,Written
+Exam_2020,E_20_Q6,2020,Currency Conversion,Medium,Written
+Exam_2020,E_20_Q7,2020,Array Traversal,Hard,Written
+Exam_2020,E_20_Q8,2020,2D Array Operations,Hard,Written
+Exam_2021,E_21_Q2,2021,Java Compilation,Medium,Multiple Choice
+Exam_2021,E_21_Q3,2021,Java Virtual Machine,Easy,Multiple Choice
+Exam_2021,E_21_Q4,2021,Java Virtual Machine,Easy,Multiple Choice
+Exam_2021,E_21_Q5,2021,Loop Termination,Medium,Multiple Choice
+Exam_2021,E_21_Q6,2021,Error Detection,Hard,Written
+Exam_2021,E_21_Q7,2021,Array Manipulation,Medium,Written
+Exam_2021,E_21_Q8,2021,Recursion,Medium,Written
+Exam_2021,E_21_Q9,2021,String Processing,Hard,Written
+Exam_2021,E_21_Q10,2021,Data Integrity Verification,Hard,Written
+Exam_2021,E_21_Q11,2021,Algorithm Design,Hard,Written
+Exam_2024,E_24_Q1,2024,Java Fundamentals,Hard,Written
+Exam_2024,E_24_Q2,2024,For Loop,Medium,Written
+Exam_2024,E_24_Q3,2024,Error Detection,Hard,Written
+Exam_2024,E_24_Q4,2024,Code Analysis,Medium,Multiple Choice
+Exam_2024,E_24_Q5,2024,Arrays,Medium,Written
+Exam_2024,E_24_Q6,2024,Array Manipulation,Easy,Multiple Choice
+Exam_2024,E_24_Q7,2024,Algorithm Design,Hard,Written
+Exam_2024,E_24_Q8,2024,Algorithm Implementation,Hard,Written
+Exam_2024,E_24_Q9,2024,Sequence Analysis,Hard,Written
+Exam_2024,E_24_Q10,2024,Sequence Implementation,Hard,Written
+Exam_2024,E_24_Q11,2024,Path-finding Algorithms,Hard,Written
+Exam_2024,E_24_Q12,2024,Chess Movement,Hard,Written
+Resit_2022,R_22_Q1,2022,Java Compilation,Hard,Written
+Resit_2022,R_22_Q2,2022,Variable Declaration,Easy,Multiple Choice
+Resit_2022,R_22_Q3,2022,Increment Operators,Easy,Multiple Choice
+Resit_2022,R_22_Q4,2022,Division by Zero,Medium,Multiple Choice
+Resit_2022,R_22_Q5,2022,Void Return Type,Easy,Multiple Choice
+Resit_2022,R_22_Q6,2022,Loop Execution,Medium,Multiple Choice
+Resit_2022,R_22_Q7,2022,Recursion,Medium,Multiple Choice
+Resit_2022,R_22_Q8,2022,Sum of Squares,Hard,Written
+Resit_2022,R_22_Q9,2022,Array Manipulation,Hard,Written
+Resit_2022,R_22_Q10,2022,Array Sorting,Hard,Written
+Resit_2022,R_22_Q11,2022,Checkers Implementation,Hard,Written
+Resit_2022,R_22_Q12,2022,Array Processing,Hard,Written

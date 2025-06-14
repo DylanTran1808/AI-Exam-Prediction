@@ -1,0 +1,135 @@
+ExamID,QuestionID,Year,Topic,Difficulty,AnswerType
+Exam_2019,E_19_Q1,2019,Numerical Stability,Hard,Written
+Exam_2019,E_19_Q2,2019,Root-Finding Algorithms,Hard,Written
+Exam_2019,E_19_Q3,2019,Ordinary Differential Equations,Hard,Written
+Exam_2019,E_19_Q4,2019,ODE Simulation,Medium,Written
+Exam_2019,E_19_Q5,2019,Polynomial Interpolation,Hard,Written
+Exam_2019,E_19_Q6,2019,Numerical Integration,Hard,Written
+Exam_2019,E_19_Q7,2019,Fourier Analysis,Hard,Written
+Exam_2019,E_19_Q8,2019,Linear Systems,Hard,Written
+Exam_2019,E_19_Q9,2019,Eigenvalue Problems,Hard,Written
+Resit_2019,R_19_Q1,2019,Floating-Point Arithmetic,Medium,Written
+Resit_2019,R_19_Q2,2019,Root Finding,Hard,Written
+Resit_2019,R_19_Q3,2019,ODE Numerical Methods,Medium,Written
+Resit_2019,R_19_Q3a,2019,ODE Error Analysis,Hard,Written
+Resit_2019,R_19_Q4,2019,ODE Simulation,Medium,Written
+Resit_2019,R_19_Q5,2019,Polynomial Interpolation,Hard,Written
+Resit_2019,R_19_Q6,2019,Numerical Integration,Hard,Written
+Resit_2019,R_19_Q7,2019,Orthogonal Basis Approximation,Hard,Written
+Resit_2019,R_19_Q7a,2019,Matrix Condition Analysis,Hard,Written
+Resit_2019,R_19_Q8,2019,Eigenvalue Computation,Medium,Written
+Resit_2020_2021,R_21_Q2,2020/2021,ODE Solving,Hard,Written
+Resit_2020_2021,R_21_Q3,2020/2021,Polynomial Interpolation,Medium,Written
+Resit_2020_2021,R_21_Q4,2020/2021,Numerical Integration,Hard,Written
+Resit_2020_2021,R_21_Q5,2020/2021,Least-Squares Approximation,Hard,Written
+Resit_2020_2021,R_21_Q6,2020/2021,Eigenvalue Computation,Hard,Written
+Resit_2020_2021,R_21_Q7,2020/2021,Differential Equations,Hard,Written
+Resit_2020,R_20_Q2,2020,ODE Methods,Hard,Written
+Resit_2020,R_20_Q3,2020,Interpolation,Medium,Written
+Resit_2020,R_20_Q4,2020,Numerical Differentiation and Integration,Hard,Written
+Resit_2020,R_20_Q5,2020,Least-Squares Approximation,Hard,Written
+Resit_2020,R_20_Q6,2020,Linear Systems,Hard,Written
+Resit_2020,R_20_Q7,2020,ODE Simulation,Medium,Written
+Resit_2022,R_22_Q1,2022,Algebraic Equations,Hard,Written
+Resit_2022,R_22_Q2,2022,Differential Equations,Hard,Written
+Resit_2022,R_22_Q3,2022,Polynomial Interpolation,Hard,Written
+Resit_2022,R_22_Q4,2022,Differentiation & Integration,Hard,Written
+Resit_2022,R_22_Q5,2022,Least-Squares Approximation,Hard,Written
+Resit_2022,R_22_Q6,2022,Linear Algebra,Hard,Written
+Resit_2022,R_22_Q7,2022,Compartmental Modelling,Medium,Written
+Exam_2021,E_21_Q1,2021,Root Finding Algorithms,Medium,Written
+Exam_2021,E_21_Q2,2021,Numerical IVP Solving,Medium,Written
+Exam_2021,E_21_Q3,2021,Polynomial Interpolation,Medium,Written
+Exam_2021,E_21_Q4,2021,Numerical Differentiation,Medium,Written
+Exam_2021,E_21_Q5,2021,Fourier Analysis,Medium,Written
+Exam_2021,E_21_Q6,2021,Linear Algebra Methods,Medium,Written
+Exam_2021,E_21_Q7,2021,Differential Equations Modeling,Hard,Written
+Exam_2020,E_20_Q1,2020,Numerical Methods,Hard,Written
+Exam_2020,E_20_Q2,2020,Differential Equations,Hard,Written
+Exam_2020,E_20_Q3,2020,Interpolation,Hard,Written
+Exam_2020,E_20_Q4,2020,Numerical Integration,Hard,Written
+Exam_2020,E_20_Q5,2020,Fourier Analysis,Hard,Written
+Exam_2020,E_20_Q6,2020,Linear Algebra,Hard,Written
+Exam_2020,E_20_Q7,2020,Differential Equations Modeling,Hard,Written
+Exam_2022,E_22_Q1a,2022,Numerical Methods,Medium,Written
+Exam_2022,E_22_Q1b,2022,Root Finding,Hard,Written
+Exam_2022,E_22_Q2a,2022,Differential Equations,Hard,Written
+Exam_2022,E_22_Q2b,2022,Error Analysis,Medium,Written
+Exam_2022,E_22_Q3,2022,Interpolation,Hard,Written
+Exam_2022,E_22_Q4,2022,Numerical Integration,Medium,Written
+Exam_2022,E_22_Q5,2022,Fourier Transform,Hard,Written
+Exam_2022,E_22_Q6a,2022,Linear Algebra,Medium,Written
+Exam_2022,E_22_Q6b,2022,Iterative Methods,Medium,Written
+Exam_2022,E_22_Q7,2022,Differential Equations,Hard,Written
+Exam_2023,E_23_Q1a,2023,Computer Arithmetic,Medium,Written
+Exam_2023,E_23_Q1b,2023,Computer Arithmetic,Medium,Written
+Exam_2023,E_23_Q1c,2023,Algebraic Equations,Medium,Written
+Exam_2023,E_23_Q1d,2023,Algebraic Equations,Easy,Written
+Exam_2023,E_23_Q2a,2023,Differential Equations,Hard,Written
+Exam_2023,E_23_Q2b,2023,Differential Equations,Medium,Written
+Exam_2023,E_23_Q2c,2023,Differential Equations,Medium,Written
+Exam_2023,E_23_Q3a,2023,Polynomial Interpolation,Medium,Written
+Exam_2023,E_23_Q3b,2023,Polynomial Interpolation,Medium,Written
+Exam_2023,E_23_Q3c,2023,Polynomial Interpolation,Hard,Written
+Exam_2023,E_23_Q4a,2023,Numerical Integration,Hard,Written
+Exam_2023,E_23_Q4b,2023,Numerical Integration,Medium,Written
+Exam_2023,E_23_Q5a,2023,Least-Squares Approximation,Medium,Written
+Exam_2023,E_23_Q5b,2023,Least-Squares Approximation,Easy,Written
+Exam_2023,E_23_Q5c,2023,Least-Squares Approximation,Easy,Written
+Exam_2023,E_23_Q5d,2023,Least-Squares Approximation,Medium,Written
+Exam_2023,E_23_Q6a,2023,Linear Algebra,Medium,Written
+Exam_2023,E_23_Q6b,2023,Linear Algebra,Easy,Written
+Exam_2023,E_23_Q6c,2023,Linear Algebra,Medium,Written
+Exam_2023,E_23_Q7a,2023,Modelling,Easy,Written
+Exam_2023,E_23_Q7b,2023,Modelling,Medium,Written
+Resit_2023,R_23_Q1a,2023,Root Finding,Medium,Written
+Resit_2023,R_23_Q1b,2023,Root Finding,Medium,Written
+Resit_2023,R_23_Q1c,2023,Root Finding,Medium,Written
+Resit_2023,R_23_Q1d,2023,Root Finding,Medium,Written
+Resit_2023,R_23_Q2,2023,Ordinary Differential Equations,Hard,Written
+Resit_2023,R_23_Q3a,2023,Polynomial Interpolation,Easy,Written
+Resit_2023,R_23_Q3b,2023,Polynomial Interpolation,Medium,Written
+Resit_2023,R_23_Q3c,2023,Polynomial Interpolation,Medium,Written
+Resit_2023,R_23_Q3d,2023,Polynomial Interpolation,Medium,Written
+Resit_2023,R_23_Q4a,2023,Numerical Integration,Medium,Written
+Resit_2023,R_23_Q4b,2023,Numerical Integration,Medium,Written
+Resit_2023,R_23_Q4c,2023,Numerical Differentiation,Medium,Written
+Resit_2023,R_23_Q5a,2023,Fourier Transform,Easy,Written
+Resit_2023,R_23_Q5b,2023,Fourier Transform,Medium,Written
+Resit_2023,R_23_Q5c,2023,Fourier Transform,Medium,Written
+Resit_2023,R_23_Q6a,2023,Eigenvalues,Easy,Written
+Resit_2023,R_23_Q6b,2023,QR Algorithm,Medium,Written
+Resit_2023,R_23_Q6c,2023,Eigenvalues,Medium,Written
+Resit_2023,R_23_Q7a,2023,Root Finding,Medium,Written
+Resit_2023,R_23_Q7b,2023,Fixed-Point Iteration,Medium,Written
+Exam_2018,E_18_Q2,2018,Root Finding,Medium,Written
+Exam_2018,E_18_Q3,2018,Polynomial Interpolation,Medium,Written
+Exam_2018,E_18_Q4,2018,Numerical Integration,Medium,Written
+Exam_2018,E_18_Q5,2018,Differential Equations,Medium,Written
+Exam_2018,E_18_Q6,2018,Approximation Theory,Medium,Written
+Exam_2018,E_18_Q7,2018,Differential Equations Simulation,Medium,Written
+Exam_2024,E_24_Q1a,2024,Root Finding Methods,Hard,Written
+Exam_2024,E_24_Q1b,2024,Root Finding Methods,Hard,Written
+Exam_2024,E_24_Q1c,2024,Root Finding Methods,Hard,Written
+Exam_2024,E_24_Q1d,2024,Root Finding Methods,Hard,Written
+Exam_2024,E_24_Q1e,2024,Root Finding Methods,Hard,Written
+Exam_2024,E_24_Q1f,2024,Root Finding Methods,Hard,Written
+Exam_2024,E_24_Q2a,2024,Differential Equations,Hard,Written
+Exam_2024,E_24_Q2b,2024,Differential Equations,Medium,Written
+Exam_2024,E_24_Q2c,2024,Differential Equations,Hard,Written
+Exam_2024,E_24_Q3a,2024,Polynomial Interpolation,Hard,Written
+Exam_2024,E_24_Q3b,2024,Polynomial Interpolation,Medium,Written
+Exam_2024,E_24_Q3c,2024,Polynomial Interpolation,Medium,Written
+Exam_2024,E_24_Q3d,2024,Polynomial Interpolation,Hard,Written
+Exam_2024,E_24_Q4a,2024,Numerical Integration,Medium,Written
+Exam_2024,E_24_Q4b,2024,Numerical Integration,Medium,Written
+Exam_2024,E_24_Q4c,2024,Numerical Integration,Medium,Written
+Exam_2024,E_24_Q4d,2024,Numerical Integration,Hard,Written
+Exam_2024,E_24_Q5a,2024,Least-Squares Approximation,Hard,Written
+Exam_2024,E_24_Q5b,2024,Least-Squares Approximation,Medium,Written
+Exam_2024,E_24_Q5c,2024,Least-Squares Approximation,Medium,Written
+Exam_2024,E_24_Q5d,2024,Least-Squares Approximation,Hard,Written
+Exam_2024,E_24_Q5e,2024,Least-Squares Approximation,Hard,Written
+Exam_2024,E_24_Q6a,2024,Matrix Eigenvalues,Hard,Written
+Exam_2024,E_24_Q6b,2024,Matrix Eigenvalues,Medium,Written
+Exam_2024,E_24_Q6c,2024,Matrix Eigenvalues,Hard,Written

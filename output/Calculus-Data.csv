@@ -1,0 +1,53 @@
+ExamID,QuestionID,Year,Topic,Difficulty,AnswerType
+Exam_2013,E_13_Q1a,2013,Limits,Easy,Written
+Exam_2013,E_13_Q1b,2013,Limits,Medium,Written
+Exam_2013,E_13_Q1c,2013,Limits,Medium,Written
+Exam_2013,E_13_Q1d,2013,Limits,Medium,Written
+Exam_2013,E_13_Q2a,2013,Domain & Continuity,Easy,Written
+Exam_2013,E_13_Q2b,2013,Monotonicity,Medium,Written
+Exam_2013,E_13_Q2c,2013,Concavity,Medium,Written
+Exam_2013,E_13_Q2d,2013,Asymptotes,Medium,Written
+Exam_2013,E_13_Q2e,2013,Symmetry,Easy,Written
+Exam_2013,E_13_Q2f,2013,Curve Sketching,Medium,Written
+Exam_2013,E_13_Q3a,2013,Derivative - Chain Rule,Medium,Written
+Exam_2013,E_13_Q3b,2013,Second Derivative,Medium,Written
+Exam_2013,E_13_Q3c,2013,Derivative - Absolute Value,Medium,Written
+Exam_2013,E_13_Q3d,2013,Tangent Line,Medium,Written
+Exam_2013,E_13_Q4a,2013,Integration - Substitution,Medium,Written
+Exam_2013,E_13_Q4b,2013,Integration - Parts,Medium,Written
+Exam_2013,E_13_Q4c,2013,Integration - Trigonometric,Medium,Written
+Exam_2013,E_13_Q4d,2013,Integration - Rational,Medium,Written
+Exam_2013,E_13_Q5a,2013,Series Convergence,Medium,Written
+Exam_2013,E_13_Q5b,2013,Series Convergence - Ratio Test,Medium,Written
+Exam_2013,E_13_Q5c,2013,Alternating Series,Hard,Written
+Exam_2013,E_13_Q6a,2013,Tangent Plane,Medium,Written
+Exam_2013,E_13_Q6b,2013,Mixed Partial Derivative,Easy,Written
+Exam_2013,E_13_Q6c,2013,Double Integral,Hard,Written
+Exam_2013,E_13_Q6d,2013,Area by Double Integral,Medium,Written
+Exam_2024,E_24_Q1a,2024,Limits and Continuity,Medium,Multiple Choice
+Exam_2024,E_24_Q1b,2024,Limits and Continuity,Medium,Multiple Choice
+Exam_2024,E_24_Q1c,2024,Integral Convergence,Medium,Multiple Choice
+Exam_2024,E_24_Q2,2024,Asymptotic Analysis,Hard,Written
+Exam_2024,E_24_Q3,2024,Function Construction,Hard,Written
+Exam_2024,E_24_Q4a,2024,Integration Techniques,Medium,Written
+Exam_2024,E_24_Q4b,2024,Integration Techniques,Medium,Written
+Exam_2024,E_24_Q4c,2024,Integration Techniques,Medium,Written
+Exam_2024,E_24_Q5a,2024,Series and Sequences,Medium,Written
+Exam_2024,E_24_Q5b,2024,Series and Sequences,Hard,Written
+Exam_2024,E_24_Q6,2024,Multivariable Calculus,Medium,Written
+Exam_2024,E_24_Q7,2024,Multiple Integration,Medium,Written
+Exam_2021,E_21_Q1a,2021,Limits,Medium,Written
+Exam_2021,E_21_Q1b,2021,Limits,Hard,Written
+Exam_2021,E_21_Q2a,2021,Derivatives,Medium,Written
+Exam_2021,E_21_Q2b,2021,Continuity and Differentiability,Hard,Written
+Exam_2021,E_21_Q3,2021,Curve Sketching,Hard,Written
+Exam_2021,E_21_Q4a,2021,Integration,Medium,Written
+Exam_2021,E_21_Q4b,2021,Integration,Hard,Written
+Exam_2021,E_21_Q5a,2021,Infinite Series,Medium,Written
+Exam_2021,E_21_Q5b,2021,Infinite Series,Medium,Written
+Exam_2021,E_21_Q6a,2021,Differential Equations,Medium,Written
+Exam_2021,E_21_Q6b,2021,Differential Equations,Medium,Written
+Exam_2021,E_21_Q7a,2021,Multivariable Limits,Hard,Written
+Exam_2021,E_21_Q7b,2021,Partial Derivatives,Hard,Written
+Exam_2021,E_21_Q8a,2021,Multiple Integrals,Easy,Written
+Exam_2021,E_21_Q8b,2021,Multiple Integrals,Medium,Written
